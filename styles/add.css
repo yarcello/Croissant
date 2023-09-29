@@ -36,3 +36,17 @@ h3 {
   text-align: center;
   margin: 20x;
 }
+@media (max-width: 576px) {
+  .links {
+    font-size: 13px;
+  }
+  .picture {
+    width: 350px;
+  }
+  .description {
+    margin: 13px;
+  }
+  li {
+    font-size: 13px;
+  }
+}
